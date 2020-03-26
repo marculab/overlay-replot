@@ -1,0 +1,17 @@
+Channel,2
+"PlotIntensity(1 for yes, 0 for no) (if not, will plot lifetime value)",1
+SNRLowerBound,30
+CircleRadius,15
+CircleOpacity,0.5
+LtCh1ColorScaleFrom,3.5
+LtCh1ColorScaleTo,5
+LtCh2ColorScaleFrom,3
+LtCh2ColorScaleTo,6
+LtCh3ColorScaleFrom,2.5
+LtCh3ColorScaleTo,5
+IntCh1ColorScaleFrom,0
+IntCh1ColorScaleTo,0.5
+IntCh2ColorScaleFrom,0
+IntCh2ColorScaleTo,0.5
+IntCh3ColorScaleFrom,0
+IntCh3ColorScaleTo,0.5
